@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'diy4me hugo theme'
+
+theme = "diy4me"
+
+# themes directory
+# 主题目录
+themesDir = "../.."
