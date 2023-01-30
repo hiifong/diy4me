@@ -12,7 +12,7 @@ min_version = "0.41.0"
 
 [author]
   name = "hiifong"
-  homepage = "http://github.com/hiifong/diy4me"
+  homepage = "https://i.hiifong.cc"
 
 # If porting an existing theme
 [original]
