@@ -1,0 +1,6 @@
+# Mac OS
+**/.DS_Store
+**/public
+**/resources/_gen
+**/.hugo_build.lock
+node_modules
